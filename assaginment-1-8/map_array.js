@@ -1,4 +1,4 @@
-let strings = ["hello", "world", "javascript", "array"];
-let capitalizedStrings = strings.map(string => string.toUpperCase());
-console.log(capitalizedStrings);
+let names = ["prabin", "rakesh", "kapil", "ashish"];
+let capitalizedName = names.map(name => name.toUpperCase());
+console.log(capitalizedName);
 
